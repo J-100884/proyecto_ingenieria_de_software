@@ -1,0 +1,9 @@
+# Especificación de Casos de Uso - AgroCiclo
+
+## Caso de Uso 1: Registrar Parcela y Finca
+- Actor: Pequeño Productor / Agricultor.
+- Descripción: El agricultor ingresa la ubicación, tamaño de la hectárea y el tipo de cultivo de ciclo corto a sembrar.
+
+## Caso de Uso 2: Consultar Calendario de Cosecha
+- Actor: Pequeño Productor.
+- Descripción: El sistema muestra las fechas estimadas de riego, fertilización y la fecha aprox. de cosecha final según el ciclo del cultivo.
