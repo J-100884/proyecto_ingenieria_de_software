@@ -1,0 +1,10 @@
+# Requisitos del Sistema AgroCiclo
+
+## Requisitos Funcionales
+1. Registro de Siembra: Permitir registrar la fecha de siembra, el tipo de cultivo (maíz, fréjol, hortalizas) y el área en hectáreas.
+2. Alertas de Insumos: Generar alertas para la aplicación de fertilizantes y control de plagas según la fase del cultivo.
+3. Cálculo de Costos: Calcular el costo total de producción (semillas, fertilizantes, mano de obra) por lote.
+
+## Requisitos No Funcionales
+1. Usabilidad: La interfaz debe ser adaptable a teléfonos móviles para usarse en el campo.
+2. Disponibilidad: Permitir guardar datos localmente si no hay señal de internet en la finca.
