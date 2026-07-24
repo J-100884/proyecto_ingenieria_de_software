@@ -1,2 +1,2 @@
 # proyecto_ingenieria_de_software
-SIGAGRO_gestion de cultivo de ciclo corto para pequeños productores 
+Sistema de Gestión Agropecuaria: plataforma que permite administrar cultivos, inventario de insumos y producción agrícola, facilitando la toma de decisiones del productor. 
